@@ -1,5 +1,5 @@
 # Connect4
-Introduction
+INTRODUCTION
 ============
 Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the next available space within the column. The objective of the game is to connect four of one's own discs of the same color next to each other vertically, horizontally, or diagonally before your opponent.
 
@@ -16,7 +16,7 @@ GAME BOARD
 NEW GAME PANEL(Restart)
 ------------
 
-Description
+DESCRIPTION
 ===========
 
 1. A playboard with 6 rows and 7 columns is created and initialized.
