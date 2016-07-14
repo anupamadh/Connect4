@@ -32,14 +32,6 @@
 	position:relative;
 	display:inline-block;
 	background-color: red;
-
-
-/* for adding an arrow image later on. may eventually use bord color to indicate turn*/
-
-/*	background-image: url("http://upload.wikimedia.org/wikipedia/commons/6/6e/ArrowPointingDown.jpg");
-	background-size: 50px 50px;*/
-
-
 	background-size:100% 100%;
 	background-repeat: no-repeat;
 	height:50px;
@@ -53,9 +45,7 @@
 
 p  {
 	color:white;
-/*	height:50px;*/
-	width:50px;/*
-	border-radius:50%;*/
+	width:50px;
 	display:inline-block;
 }
 
