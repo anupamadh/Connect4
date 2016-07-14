@@ -7,16 +7,17 @@ I have extended the game by adding a degree of unpredictability by swapping 2 co
 
 The game employs *Object Oriented Programming*.
 
-Description
-===========
 _Layout:_
 
 DROP PANEL
-=======================
+------------
 GAME BOARD
-=======================
+------------
 NEW GAME PANEL(Restart)
-=======================
+------------
+
+Description
+===========
 
 1. A playboard with 6 rows and 7 columns is created and initialized.
 A drop panel is created on top where the chips are located. The player can click on the chip and it will drop down the column to the lowest empty slot.
