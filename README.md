@@ -14,12 +14,9 @@ _Layout:_
 DROP PANEL
 =======================
 GAME BOARD
-
-
-
-
 =======================
 NEW GAME PANEL(Restart)
+=======================
 
 1. A playboard with 6 rows and 7 columns is created and initialized.
 A drop panel is created on top where the chips are located. The player can click on the chip and it will drop down the column to the lowest empty slot.
